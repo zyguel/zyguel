@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zyguel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zyguel&theme=tokyonight&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyguel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyguel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zyguel&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
@@ -28,5 +28,11 @@
 ---
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zyguel) 
+## 💰 You can help me by Donating
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zyguel) <br>
+<a href="https://drive.google.com/uc?export=view&id=1pNRjtvKDHMS2hHgzOr0jaGCzAtA4glnf">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/GCash_logo.svg/2560px-GCash_logo.svg.png" width="200" height="auto" alt="GCash Logo">
+</a>
+
+
+  
