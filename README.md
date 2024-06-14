@@ -3,7 +3,7 @@
 🎓Bachelor Of Science in Information Technology (In Progress since Aug 2022)<br>🖥️Specializes in Backend and Information Security<br>📚 Currently Learning and pursuing Data Scientist Certification<br>
 ## MOST RECENT REPOSITORY
 [Data Structures and Algorithms in C (2024)](https://github.com/zyguel/DSA-SUMMER-2024)
-[![Data Structures and Algorithms in C (2024)](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/zyguel/DSA-SUMMER-2024)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zyguel.cabs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zyguel-philip-cabogoy-a7a300150/) 
