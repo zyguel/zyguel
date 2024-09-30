@@ -1,6 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=zyguel&icon=0&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🎓Bachelor Of Science in Information Technology (In Progress since Aug 2022)<br>🖥️Specializes in Backend and Information Security<br>📚 Currently Learning and pursuing Data Scientist Certification<br>
+
+## Cybersecurity Projects (SOC, Penetration Tests, Solved CTFs, etc.)
+# Available at the company's request (It's a private repo since it contains code or tools not meant to be widely used.
+
 ## MOST RECENT REPOSITORY
 [Data Structures and Algorithms in C (2024)](https://github.com/zyguel/DSA-SUMMER-2024)
 
