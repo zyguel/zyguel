@@ -7,7 +7,7 @@
 
 ## MOST RECENT REPOSITORY
 [Data Structures and Algorithms in C (2024)](https://github.com/zyguel/DSA-SUMMER-2024)
-
+[Windows De Admin All Apps (November 2024)](https://github.com/zyguel/Windows-De-Admin-All-apps)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zyguel.cabs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zyguel-philip-cabogoy-a7a300150/) 
