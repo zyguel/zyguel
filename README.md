@@ -10,6 +10,8 @@
 
 [Windows De Admin All Apps (November 2024)](https://github.com/zyguel/Windows-De-Admin-All-apps)
 
+[Fuel-Economy-DataScience-Project (Analysis of Data for 2014-2024)](https://github.com/zyguel/Fuel-Economy-DataScience-Project)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zyguel.cabs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zyguel-philip-cabogoy-a7a300150/) 
 
