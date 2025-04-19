@@ -1,4 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=zyguel&icon=0&color=12)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=zyguel&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🎓Bachelor Of Science in Information Technology (In Progress since Aug 2022)<br>🖥️Specializes in Backend and Information Security<br>📚 Currently Learning and pursuing Data Scientist Certification<br>
 
