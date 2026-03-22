@@ -157,26 +157,6 @@ I'm an all-rounder IT professional — I go deep on everything from low-level sy
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zyguel&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributions
-
-<div align="center">
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=zyguel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
